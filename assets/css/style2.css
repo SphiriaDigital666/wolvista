@@ -59,3 +59,15 @@
   position: fixed;
   z-index: 100;
 }
+
+/* //////////// */
+.price-discount {
+  text-decoration: line-through;
+  font-size: 16px;
+  color: white;
+}
+
+.discount-off {
+  font-size: 16px;
+  margin-left: 10px;
+}
